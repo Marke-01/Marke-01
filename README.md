@@ -8,7 +8,7 @@ I am currently developing an assistive-navigation research platform that explore
 
 ### [DeskPilot AI](https://github.com/Marke-01/deskpilot-ai)
 
-An AI-powered Tier-1 help desk assistant built with FastAPI, Next.js, and TypeScript. It combines local knowledge retrieval, optional LLM generation, safety guardrails, and technician-ready ticket escalation.
+An AI-powered Tier-1 and 2 Help Desk assistant built with FastAPI, Next.js, and TypeScript. It combines local knowledge retrieval, optional LLM generation, safety guardrails, and technician-ready ticket escalation.
 
 ### [MetroPredict](https://github.com/Marke-01/metro-predict)
 
