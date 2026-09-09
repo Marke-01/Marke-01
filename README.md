@@ -37,4 +37,4 @@ A responsive HTML, CSS, and JavaScript portfolio presenting my background, skill
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/eshwar-vudhanthi-311788209) · [Portfolio](https://marke-01.github.io/portfolio/) · [Email](mailto:vudhanthieshwar@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/eshwar-vudhanthi) · [Portfolio](https://marke-01.github.io/portfolio/) · [Email](mailto:vudhanthieshwar@gmail.com)
