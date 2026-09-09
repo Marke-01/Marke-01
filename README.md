@@ -14,10 +14,6 @@ An AI-powered Tier-1 and 2 Help Desk assistant built with FastAPI, Next.js, and 
 
 An end-to-end grocery replenishment analytics case study using Python, SQL, machine learning, and Tableau. It includes a reproducible evaluation pipeline, an executive report, and a clearly documented conditional pilot recommendation.
 
-### [Personal Portfolio](https://github.com/Marke-01/portfolio)
-
-A responsive HTML, CSS, and JavaScript portfolio presenting my background, skills, and selected work. [View the live site](https://marke-01.github.io/portfolio/).
-
 ### [Angular Task Manager](https://github.com/Marke-01/angular-task-manager)
 
 An Angular and TypeScript learning project demonstrating component-based design, routing, route guards, and a local authentication flow.
@@ -25,6 +21,10 @@ An Angular and TypeScript learning project demonstrating component-based design,
 ### [React Task Manager](https://github.com/Marke-01/react-task-manager)
 
 A React task manager with status filtering and `localStorage` persistence.
+
+### [Personal Portfolio](https://github.com/Marke-01/portfolio)
+
+A responsive HTML, CSS, and JavaScript portfolio presenting my background, skills, and selected work. [View the live site](https://marke-01.github.io/portfolio/).
 
 ## Technical focus
 
