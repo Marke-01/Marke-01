@@ -6,6 +6,14 @@ I am currently developing an assistive-navigation research platform that explore
 
 ## Selected projects
 
+### [DeskPilot AI](https://github.com/Marke-01/deskpilot-ai)
+
+An AI-powered Tier-1 help desk assistant built with FastAPI, Next.js, and TypeScript. It combines local knowledge retrieval, optional LLM generation, safety guardrails, and technician-ready ticket escalation.
+
+### [MetroPredict](https://github.com/Marke-01/metro-predict)
+
+An end-to-end grocery replenishment analytics case study using Python, SQL, machine learning, and Tableau. It includes a reproducible evaluation pipeline, an executive report, and a clearly documented conditional pilot recommendation.
+
 ### [Personal Portfolio](https://github.com/Marke-01/portfolio)
 
 A responsive HTML, CSS, and JavaScript portfolio presenting my background, skills, and selected work. [View the live site](https://marke-01.github.io/portfolio/).
@@ -20,7 +28,8 @@ A React task manager with status filtering and `localStorage` persistence.
 
 ## Technical focus
 
-- Python and computer vision
+- Python, machine learning, and computer vision
+- FastAPI, SQL, and retrieval-augmented generation
 - Accessible and human-centered software
 - JavaScript and TypeScript
 - React and Angular
