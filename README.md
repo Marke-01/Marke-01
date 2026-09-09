@@ -4,7 +4,7 @@ Software developer interested in accessible technology, computer vision, and pra
 
 I am currently developing an assistive-navigation research platform that explores deterministic hazard prioritization and concise guidance for blind and low-vision users. The active research repository is private while the project is being prepared for public release.
 
-## Selected projects
+## Projects
 
 ### [DeskPilot AI](https://github.com/Marke-01/deskpilot-ai)
 
